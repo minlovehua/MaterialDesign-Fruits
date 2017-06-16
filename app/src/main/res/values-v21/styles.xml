@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!--21.在主题中将android:statusBarColor的属性值指定为android:color/transparent就可以了-->
+<resources>
+    <style name="FruitActivityTheme" parent="AppTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
